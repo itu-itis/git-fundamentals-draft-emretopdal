@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub [MEHMET EMRE TOPDAL 150190058]
 
 ## 🤓 Course overview and learning outcomes 
 
